@@ -1,0 +1,10 @@
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\bin\Debug\pr2.exe.config
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\bin\Debug\pr2.exe
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\bin\Debug\pr2.pdb
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\obj\Debug\pr2.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\obj\Debug\pr2.Form1.resources
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\obj\Debug\pr2.Properties.Resources.resources
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\obj\Debug\pr2.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\obj\Debug\pr2.exe
+C:\Users\305-12\Desktop\Горелова ПР-31\pr2\obj\Debug\pr2.pdb
